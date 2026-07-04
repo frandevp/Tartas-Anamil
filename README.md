@@ -6,7 +6,7 @@
 
 ## English
 
-Landing page for a local bakery specializing in custom handmade cakes in Madrid. Customers order directly via WhatsApp.
+Landing page for a local bakery specializing in custom handmade cakes in Madrid. Customers order directly via WhatsApp. The client specifically requested a girly, playful visual style — reflected in the pixel art aesthetic, pastel tones, animated drips and decorative characters.
 
 **Tech:** HTML · CSS · JavaScript
 
@@ -27,7 +27,7 @@ Open `index.html` in your browser.
 
 ## Español
 
-Landing page para una pastelería local especializada en tartas artesanales por encargo en Madrid. Los pedidos se gestionan directamente por WhatsApp.
+Landing page para una pastelería local especializada en tartas artesanales por encargo en Madrid. Los pedidos se gestionan directamente por WhatsApp. El cliente pidió expresamente un estilo visual muy femenino y juguetón — reflejado en la estética pixel art, tonos pastel, goteos animados y personajes decorativos.
 
 **Tecnologías:** HTML · CSS · JavaScript
 
